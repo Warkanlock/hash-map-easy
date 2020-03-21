@@ -1,0 +1,8 @@
+{
+  "name": "hash-map-easy",
+  "version": "0.0.1",
+  "description": "A simple and easy to implement hashMap inside javascript",
+  "main": "./bin/hashMap.js",
+  "author": "Ignacio Brasca",
+  "license": "GNU"
+}
